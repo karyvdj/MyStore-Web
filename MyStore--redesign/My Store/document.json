@@ -1,0 +1,327 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "7BD6F176-D821-4A80-977E-F9747CD260FE",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "6F39F337-C269-46BF-A86C-DB892D1A2A25",
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "067375C6-AA2B-47AE-A749-DB5C4941D39B",
+      "fontFamilyName": "Myriad Pro",
+      "fontFileName": "MyriadPro-Regular.otf",
+      "options": 0,
+      "postscriptNames": [
+        "MyriadPro-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "134BDBD5-8115-4D21-B50D-DF8D30BEC3CA",
+      "fontFamilyName": "Myriad Pro",
+      "fontFileName": "MyriadPro-It.otf",
+      "options": 0,
+      "postscriptNames": [
+        "MyriadPro-It"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "155F83E3-B7FE-4619-97F7-9D6078A66D02",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-Bold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Sarabun-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "20A25C24-80D3-460C-AFAF-408330437590",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3BE2075C-C231-4679-A282-1F45C5F7EFE6",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-SemiBoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-SemiBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5426D4DF-F587-4EAA-A0C9-09C22AEEEC86",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-Thin.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5E4109E9-D359-4AF3-B0E0-A0835A10DF4A",
+      "fontFamilyName": "Myriad Pro",
+      "fontFileName": "MyriadPro-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "MyriadPro-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "76CBF142-92F5-4769-8922-AD6C213A9E87",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-Light.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "82D718A9-BCA9-40FE-BCF6-0EAF44149441",
+      "fontFamilyName": "Myriad Pro",
+      "fontFileName": "MyriadPro-SemiboldCond.otf",
+      "options": 0,
+      "postscriptNames": [
+        "MyriadPro-SemiboldCond"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8B8780C8-88F3-45BF-913C-704EED4F224B",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-MediumItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9193BB8A-9A7E-4FDE-BE49-70F689B402D7",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-ThinItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A084571F-8CF1-4872-9981-BD66DC19F95E",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-Medium.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Sarabun-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "AFE98D6C-0AAC-4210-B860-293708AAE44C",
+      "fontFamilyName": "Myriad Pro",
+      "fontFileName": "MyriadPro-Semibold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "MyriadPro-Semibold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B98C5180-AC7C-4E2C-98A7-0BB56C37D60E",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-LightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D96B4384-62FF-46F8-8668-B5846F794D5A",
+      "fontFamilyName": "Myriad Pro",
+      "fontFileName": "MyriadPro-Cond.otf",
+      "options": 0,
+      "postscriptNames": [
+        "MyriadPro-Cond"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DC2C1676-DB7F-4F33-9812-F037093577F7",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-ExtraLight.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-ExtraLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E02535FE-6595-4809-9C1F-6D38116E66F4",
+      "fontFamilyName": "Myriad Pro",
+      "fontFileName": "MyriadPro-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "MyriadPro-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E56E5603-E832-4690-B5ED-3F7C876D7347",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-Italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E67F515A-D688-4CD2-8112-5F51F4B07C9A",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-ExtraBoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-ExtraBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "EAC42828-BEB7-44F4-B9D4-5450C0B1EE83",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-ExtraBold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Sarabun-ExtraBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F15F81B9-2C15-4EA5-8D0D-F1B2F815268A",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-SemiBold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Sarabun-SemiBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F46A097C-1689-4419-9EFD-9A372839C9D0",
+      "fontFamilyName": "Myriad Pro",
+      "fontFileName": "MyriadPro-LightSemiExt.otf",
+      "options": 0,
+      "postscriptNames": [
+        "MyriadPro-LightSemiExt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F7F2D3D4-15FA-419C-BF36-7F5332FA0676",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-ExtraLightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-ExtraLightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "FD30B794-4F1B-44AF-B45F-9538577A6A83",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Sarabun-Regular"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "68.1",
+    "build": 102560,
+    "version": 131
+  },
+  "pages": [
+    "Symbols",
+    "Dashboard",
+    "Orders",
+    "Payouts"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "com.invision.dsm": {
+      "libraryMetadata": {
+        "5e0f8cfb8673a510135e3fd9": {
+          "name": "Canasta DS",
+          "styleguideId": "5e0f8cfb8673a510135e3fd9",
+          "updatedOn": "2020-09-17 06:44:05 +0000"
+        },
+        "null": {
+          "layerStylesMap": {
+          },
+          "symbolsMap": {
+          },
+          "textStylesMap": {
+          }
+        },
+        "sketchLibrariesData": {
+          "layerStylesMap": {
+          },
+          "symbolsMap": {
+          },
+          "textStylesMap": {
+          }
+        }
+      }
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
