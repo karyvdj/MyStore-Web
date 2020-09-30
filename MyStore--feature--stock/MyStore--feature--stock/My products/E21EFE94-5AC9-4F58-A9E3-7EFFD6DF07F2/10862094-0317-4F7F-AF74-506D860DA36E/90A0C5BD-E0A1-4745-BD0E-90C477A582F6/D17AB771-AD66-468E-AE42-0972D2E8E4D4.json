@@ -1,0 +1,108 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D17AB771-AD66-468E-AE42-0972D2E8E4D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 597,
+    "width": 1018,
+    "x": 0.5,
+    "y": 122
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "OrderTable",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2A7C3999-D6F9-4CF4-8A67-F6F8AE584300/E7D7E82E-A017-4AC7-98BC-7D19746B1DFF_stringValue",
+      "value": "Nacional"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1016C775-124D-47F0-9D44-84A94AC95C49/649CA3C0-447B-4D72-9E4D-C9F097708559_stringValue",
+      "value": "Nacional"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4347AED0-487F-45FE-84F4-67C8507EC18E/74B38E50-63C7-471B-B6C8-97E1A10E5785_stringValue",
+      "value": "Nacional"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FF410D1F-0FBB-4521-B283-14972B340962/649CA3C0-447B-4D72-9E4D-C9F097708559_stringValue",
+      "value": "Nacional"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "92774547-E619-484F-BD2C-87064250647D",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "79F6D3D0-84AE-4EC9-866B-21F7FA7A4829",
+  "verticalSpacing": 0
+}

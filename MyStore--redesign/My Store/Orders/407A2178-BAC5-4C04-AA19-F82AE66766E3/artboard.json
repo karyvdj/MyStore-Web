@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9607843137254902,
-    "green": 0.9686274509803922,
-    "red": 0.9803921568627451
+    "blue": 0.9647058823529412,
+    "green": 0.9647058823529412,
+    "red": 0.9647058823529412
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -37,7 +37,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

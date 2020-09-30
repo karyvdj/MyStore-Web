@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 51,
-    "width": 678,
-    "x": 91,
-    "y": 12
+    "height": 75,
+    "width": 714,
+    "x": 75,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -39,6 +39,10 @@
     {
       "class": "text",
       "id": "273B0655-4358-4209-80FD-BC97A016F93A"
+    },
+    {
+      "class": "text",
+      "id": "FBE5C886-20C0-4FDD-A535-E7A70C1E51F1"
     }
   ],
   "name": "Group",
