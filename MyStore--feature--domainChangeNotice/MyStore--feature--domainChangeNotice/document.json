@@ -1,0 +1,245 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "32DD0A0B-1114-4DD1-9F1D-31391AC9AA6F",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "86845A7F-A4F2-4867-8389-50267D92C31C",
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "17C3074C-E94B-404D-9642-84A85037C9FF",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-Thin.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2575457E-B2E9-4055-AF9C-CDB189F5066A",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-Medium.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Sarabun-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "64267F82-03C4-4A3E-A857-2C571DF99B44",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-Italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "65C282A5-D403-437F-A317-C3603872C69E",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-ThinItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "676D5D83-FCCA-4CF0-B2A4-780486244D6C",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Sarabun-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "777068B2-009D-4BDC-875F-9439DBED4B25",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-ExtraLight.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-ExtraLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "88BB527C-1289-4660-95DE-A9D2BC792B8C",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-SemiBold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Sarabun-SemiBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "AA549660-2F93-4B6C-997E-F4FD51E42E42",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-SemiBoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-SemiBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C358BD57-D488-48FE-AD98-7718196E723C",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-MediumItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C792FFB8-90F0-400D-8D70-E6DDE62A138C",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-ExtraBoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-ExtraBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D50D52C4-28F6-4E45-BFDF-78E09287753E",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-ExtraBold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Sarabun-ExtraBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D8C6472D-9C94-4081-A969-1D0E9E178864",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-ExtraLightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-ExtraLightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DB97B532-E4E9-47E7-9133-20DE70208535",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DF4FD57E-EAEE-423E-9389-BD5C3A45C3DE",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-Bold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F7650D41-6A77-4C46-BB0D-FE0798EE78E4",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-Light.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "FFF21FD1-366E-4529-9025-F789EED7C0D3",
+      "fontFamilyName": "Sarabun",
+      "fontFileName": "Sarabun-LightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Sarabun-LightItalic"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "68.1",
+    "build": 102560,
+    "version": 131
+  },
+  "pages": [
+    "Page 1",
+    "Symbols"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "com.invision.dsm": {
+      "libraryMetadata": {
+        "5e0f8cfb8673a510135e3fd9": {
+          "name": "Canasta DS",
+          "styleguideId": "5e0f8cfb8673a510135e3fd9",
+          "updatedOn": "2020-10-01 01:58:47 +0000"
+        },
+        "null": {
+          "layerStylesMap": {
+          },
+          "symbolsMap": {
+          },
+          "textStylesMap": {
+          }
+        },
+        "sketchLibrariesData": {
+          "layerStylesMap": {
+          },
+          "symbolsMap": {
+          },
+          "textStylesMap": {
+          }
+        }
+      }
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

@@ -79,7 +79,7 @@
       "do_objectID": "7CAD938D-F554-4F24-9870-340524D557DA",
       "fontFamilyName": "Sarabun",
       "fontFileName": "Sarabun-Light.ttf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "Sarabun-Light"
       ]
@@ -179,7 +179,7 @@
       "do_objectID": "FFC09E51-9384-4D6E-99F2-23B7BF9E6597",
       "fontFamilyName": "Sarabun",
       "fontFileName": "Sarabun-Medium.ttf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "Sarabun-Medium"
       ]
@@ -205,6 +205,7 @@
   },
   "pages": [
     "My products",
+    "Product edit",
     "Symbols"
   ],
   "sharedSwatches": {
@@ -218,7 +219,7 @@
         "5e0f8cfb8673a510135e3fd9": {
           "name": "Canasta DS",
           "styleguideId": "5e0f8cfb8673a510135e3fd9",
-          "updatedOn": "2020-09-30 00:35:22 +0000"
+          "updatedOn": "2020-10-07 03:41:21 +0000"
         },
         "null": {
           "layerStylesMap": {

@@ -31,6 +31,36 @@
   "name": "OrderTable",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "241C0B3F-93EB-4F3C-9A9E-D4A416D8DFF4/EAB182A0-D94C-40F1-995D-25BA276814ED_symbolID",
+      "value": "77BE9BB8-2618-4211-8063-85A4829C4876"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8290AE38-D3CD-42A3-B2E4-1BB126EA8412/EAB182A0-D94C-40F1-995D-25BA276814ED_symbolID",
+      "value": "77BE9BB8-2618-4211-8063-85A4829C4876"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E97C29C3-BF34-461C-9643-AE37FC6FD8E3/EAB182A0-D94C-40F1-995D-25BA276814ED_symbolID",
+      "value": "77BE9BB8-2618-4211-8063-85A4829C4876"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8E37D25C-C5FA-4BF3-B64B-1DCF5C8DC60E/EAB182A0-D94C-40F1-995D-25BA276814ED_symbolID",
+      "value": "F43F4AA6-B13E-4421-89F3-4B828BD8D235"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1CB85309-7AFE-4DD5-8F74-071B5A6A8498/EAB182A0-D94C-40F1-995D-25BA276814ED_symbolID",
+      "value": "F43F4AA6-B13E-4421-89F3-4B828BD8D235"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FD033025-78B7-4EB4-A3A3-2D2C56B9A6E7/EAB182A0-D94C-40F1-995D-25BA276814ED_symbolID",
+      "value": "77BE9BB8-2618-4211-8063-85A4829C4876"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

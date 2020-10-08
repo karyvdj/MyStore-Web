@@ -31,6 +31,11 @@
   "name": "ProductCard/hover",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EFEE6905-BB05-40EF-9A5A-DD8A1D0FC460_stringValue",
+      "value": "Borrador"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

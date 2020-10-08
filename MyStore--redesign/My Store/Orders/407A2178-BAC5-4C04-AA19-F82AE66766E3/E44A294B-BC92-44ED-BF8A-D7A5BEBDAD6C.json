@@ -31,6 +31,26 @@
   "name": "CRStoreMenu/desktop",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2C0E13FC-710B-4139-9CB7-D2C536E73F1F_symbolID",
+      "value": "2F07F02B-B95B-4701-9362-C17BC4000802"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2C0E13FC-710B-4139-9CB7-D2C536E73F1F/F2D55D5D-FBFA-488F-A5F0-030D6903313D_stringValue",
+      "value": "Ordenes"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2DB332C6-917E-4F4D-B5E5-77AA60F43DFA_symbolID",
+      "value": "A6F09734-F157-41AB-B269-6DDD95FEAC81"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2DB332C6-917E-4F4D-B5E5-77AA60F43DFA/A8FDC5BD-78F5-4399-AFE4-4DFFC54458FC_stringValue",
+      "value": "Mi saldo"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

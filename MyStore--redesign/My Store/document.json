@@ -287,6 +287,7 @@
     "Symbols",
     "Dashboard",
     "Orders",
+    "Prototype",
     "Payouts"
   ],
   "sharedSwatches": {
@@ -300,7 +301,7 @@
         "5e0f8cfb8673a510135e3fd9": {
           "name": "Canasta DS",
           "styleguideId": "5e0f8cfb8673a510135e3fd9",
-          "updatedOn": "2020-09-17 06:44:05 +0000"
+          "updatedOn": "2020-10-01 01:58:47 +0000"
         },
         "null": {
           "layerStylesMap": {

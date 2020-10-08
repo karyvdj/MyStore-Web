@@ -45,8 +45,12 @@
       "id": "7186DB27-7226-4880-B27C-3220089B4D80"
     },
     {
-      "class": "symbolInstance",
-      "id": "895478D1-AAA0-4D3B-9FE4-99C0C50ABB15"
+      "class": "group",
+      "id": "333819E9-525D-4C0D-8BF4-FD33E8305703"
+    },
+    {
+      "class": "text",
+      "id": "E0B9F16E-DB8E-4678-8B06-1BFBB8D0DAA7"
     }
   ],
   "name": "CardsRow",
