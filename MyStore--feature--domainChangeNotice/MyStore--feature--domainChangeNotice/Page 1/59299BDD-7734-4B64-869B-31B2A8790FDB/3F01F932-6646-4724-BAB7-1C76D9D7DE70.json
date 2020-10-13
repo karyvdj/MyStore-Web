@@ -1,0 +1,103 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3F01F932-6646-4724-BAB7-1C76D9D7DE70",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 484,
+    "width": 450,
+    "x": 375,
+    "y": 196
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "modal/slide1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E9413B4D-F038-4218-BD23-1BE686D25AF7_stringValue",
+      "value": "Maneja tu catálogo"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CBD2A7A7-FEC6-42E9-B558-1FC944A1A3FC_stringValue",
+      "value": "Crea tus productos, personalízalos, agrega las mejores imágenes\nY deja que el mundo descubra tus creaciones."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "39D11CB7-79B2-4807-8C96-04BC7EB7ECA7_symbolID",
+      "value": "AEA146D2-F829-4EE2-A3EC-2C8138C3DBA1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "7A2320BF-5EEF-40C9-8BB9-E7806E6EC8DA",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4E193A15-3D8B-4734-B7CC-B8DF254E8C42",
+  "verticalSpacing": 0
+}

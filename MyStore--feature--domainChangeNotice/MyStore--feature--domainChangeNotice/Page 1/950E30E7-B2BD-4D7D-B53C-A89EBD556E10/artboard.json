@@ -58,12 +58,8 @@
       "id": "035B7F92-1FA0-4839-9D37-20DDEF38F826"
     },
     {
-      "class": "group",
-      "id": "0C07EBE3-6E65-46B7-869A-D76AF5870982"
-    },
-    {
-      "class": "group",
-      "id": "ADBADC72-6275-46F9-973D-4BDC2D814301"
+      "class": "symbolInstance",
+      "id": "C8EDD4A5-A1AC-45AA-82EE-C9C961ED334A"
     }
   ],
   "name": "Phone/slide1",

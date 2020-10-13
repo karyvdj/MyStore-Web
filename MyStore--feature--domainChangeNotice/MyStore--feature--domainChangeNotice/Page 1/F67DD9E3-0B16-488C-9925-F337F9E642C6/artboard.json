@@ -76,8 +76,12 @@
       "id": "DFE0E4AE-7618-4278-8B8B-E5A940CEEEFB"
     },
     {
-      "class": "group",
-      "id": "24C334AF-8B5B-4641-A73A-5D45C6B6331E"
+      "class": "symbolInstance",
+      "id": "5DBD53BC-5BF4-4088-8690-93C1391496C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "637E3017-9BDB-4E37-80B4-3C9A05EBDA9A"
     }
   ],
   "layout": {

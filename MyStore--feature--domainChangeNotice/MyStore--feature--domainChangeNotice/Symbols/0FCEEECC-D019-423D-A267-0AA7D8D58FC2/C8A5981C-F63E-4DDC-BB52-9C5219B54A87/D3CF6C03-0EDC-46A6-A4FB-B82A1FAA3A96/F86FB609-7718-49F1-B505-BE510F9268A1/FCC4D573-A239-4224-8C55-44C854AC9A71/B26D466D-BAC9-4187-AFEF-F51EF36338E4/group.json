@@ -1,0 +1,180 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B26D466D-BAC9-4187-AFEF-F51EF36338E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 159.5940959409594,
+    "width": 98.70848708487085,
+    "x": 81.18081180811808,
+    "y": 57.19557195571955
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "207B77D4-8F39-4810-93E8-0023B7145CA6"
+    },
+    {
+      "class": "shapePath",
+      "id": "9BA02708-B09F-4E19-9532-C7EFD11E9B63"
+    },
+    {
+      "class": "shapePath",
+      "id": "79A4EDCF-1766-4E10-BD70-C66AF1E05BA9"
+    },
+    {
+      "class": "shapePath",
+      "id": "1DB50658-4E62-4733-A856-188811ED62ED"
+    },
+    {
+      "class": "shapePath",
+      "id": "DC892F33-7A2C-4D1B-A3C5-ACF8774D900F"
+    },
+    {
+      "class": "shapePath",
+      "id": "C007665E-FA9C-45AE-8688-658BAE1D1F75"
+    },
+    {
+      "class": "shapePath",
+      "id": "747045AB-9215-4DD6-AB9A-0768C26BE4A3"
+    },
+    {
+      "class": "shapePath",
+      "id": "6B19034C-934D-4124-8BE1-38CE64FE6B4B"
+    },
+    {
+      "class": "shapePath",
+      "id": "EC750A03-0EAB-4093-9B56-D9D2843512E7"
+    },
+    {
+      "class": "shapePath",
+      "id": "01B901F8-A312-4B70-A9C5-ABF1086E00D3"
+    },
+    {
+      "class": "shapePath",
+      "id": "B2D17DF1-FDCC-42C3-96A8-E5132B292C12"
+    },
+    {
+      "class": "shapePath",
+      "id": "3A8411D3-72C9-4D77-B297-EDB447E160AE"
+    },
+    {
+      "class": "shapePath",
+      "id": "9388B21E-82C7-4479-BE53-3B9486A179A8"
+    },
+    {
+      "class": "shapePath",
+      "id": "85225EE7-2563-4765-9CAD-CC21EDE22E88"
+    },
+    {
+      "class": "shapePath",
+      "id": "C1762F6B-179E-42C6-86E5-9074FA5842FB"
+    },
+    {
+      "class": "shapePath",
+      "id": "A26977DD-D133-4E03-88F2-E8935E3D4CC6"
+    },
+    {
+      "class": "shapePath",
+      "id": "025746C0-858C-40AC-8ED4-5565CF744C1F"
+    },
+    {
+      "class": "shapePath",
+      "id": "73E5A7BC-5734-4F69-9FF8-708719047CE8"
+    },
+    {
+      "class": "shapePath",
+      "id": "6C5C721E-90F1-4DE8-81B7-DE8F20397863"
+    },
+    {
+      "class": "shapePath",
+      "id": "685DFD4C-C27E-4354-8505-5D1503B6C50D"
+    },
+    {
+      "class": "shapePath",
+      "id": "AA65DCFE-F32B-4331-979B-104C5F1D960E"
+    },
+    {
+      "class": "shapePath",
+      "id": "50D33BC9-742D-4C00-B53C-749492EFAF93"
+    },
+    {
+      "class": "shapePath",
+      "id": "BF6E9E64-2671-4FF2-B1F8-FE10CCA91F61"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "19B6A1D0-6175-4DE8-B6DF-075FC41FB5EC",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
