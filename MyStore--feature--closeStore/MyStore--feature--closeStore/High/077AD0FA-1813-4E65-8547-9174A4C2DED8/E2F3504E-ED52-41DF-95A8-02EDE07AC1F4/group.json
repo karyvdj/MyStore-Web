@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E2F3504E-ED52-41DF-95A8-02EDE07AC1F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D25FF80F-DCD8-4AA5-BECB-D1AB6369E9D1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "092D822A-3145-4B40-A148-696DD1B09571",
+    "height": 406,
+    "width": 320,
+    "x": 0,
+    "y": 137
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8C8D4374-271F-48B1-B9E7-0534910A80B2"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5678161F-A7B4-4007-B3CC-042F87E6963A"
+    },
+    {
+      "class": "group",
+      "id": "500368BB-8C14-452D-B23E-2C1B1E28C055"
+    }
+  ],
+  "name": "CloseStore-section Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "FBE85108-5728-45BE-BE2D-04480E49AE95",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "do_objectID": "163CDC97-FE8F-4A45-BF3D-F2C6B3852F5C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

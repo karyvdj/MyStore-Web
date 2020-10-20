@@ -1,0 +1,114 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "393C90A1-F551-4DA2-98A0-DABB044CE234",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D0867347-8488-4555-8D2D-76A84B939C1E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B250724B-69DD-46D2-9D4C-987EA0C490A6",
+    "height": 661,
+    "width": 320,
+    "x": 0,
+    "y": -661
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F5F31B92-F668-4957-A155-6E27D0282112"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "98D21B35-683B-406E-B894-B54402A782B6"
+    },
+    {
+      "class": "group",
+      "id": "3854FD84-9761-44E9-AA68-DB3437D5399B"
+    },
+    {
+      "class": "group",
+      "id": "A04B1A5E-E587-4693-ADAA-1EA089DBF8DA"
+    },
+    {
+      "class": "group",
+      "id": "47CC774C-FC72-4A6B-AB18-5675114034A8"
+    },
+    {
+      "class": "group",
+      "id": "636B8B50-A620-4A60-A4E9-C907BC7DBC0C"
+    },
+    {
+      "class": "text",
+      "id": "EA724AE1-4589-47D2-8BF8-04BB495296E4"
+    },
+    {
+      "class": "text",
+      "id": "99B27633-A6F0-4FD6-AD8A-36C21D842738"
+    },
+    {
+      "class": "group",
+      "id": "00EBDA65-7B40-4111-AA6A-E597361F12F7"
+    },
+    {
+      "class": "group",
+      "id": "76AC16AE-CB97-43AB-8CC6-8340BEA21B13"
+    },
+    {
+      "class": "shapePath",
+      "id": "A54EF00D-D870-4296-844E-5A73AE5C36D4"
+    },
+    {
+      "class": "shapePath",
+      "id": "544E372A-E03B-44A8-B70E-B78D8B3255FC"
+    },
+    {
+      "class": "group",
+      "id": "E047DDAD-4070-43AB-B1B9-86424F6D635B"
+    },
+    {
+      "class": "group",
+      "id": "8E9E95C6-A33A-4775-B0B4-1807FDC6D6FA"
+    }
+  ],
+  "name": "Pricesection",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "A1265F16-2F03-4C0C-9D45-5E6BE72DD903",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "do_objectID": "668AD873-7969-45EB-AD97-F51117B423A5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
