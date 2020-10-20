@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D0C2ACDA-6E32-44A2-A81B-2CA8C6A35363",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "215FBC77-D270-44DE-B613-DE0CA9434D5B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EF2C6583-850F-4A2A-B3ED-B4FB974F33ED",
+    "height": 42,
+    "width": 106,
+    "x": 97,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "CRButton/Default",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C2B29AF9-0590-4FEC-84F3-A8341D1C1CC9_stringValue",
+      "value": "Cancelar"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "CA4C0395-8FDD-43F7-B4A5-0AA0000ACFD0",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "do_objectID": "03F39AF2-5EF6-4BC1-9C05-4CAA498A1C49",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "616FA283-5C5F-4ECE-9E88-E74B5A6070F9",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6A2F69C6-2EC2-450F-BD3F-BD95426AE950",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "11EF1843-0645-428F-88D2-6A774763467E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5D7CF8A3-D1DF-418D-98D3-CBE302D68F83",
+    "height": 42,
+    "width": 106,
+    "x": 97,
+    "y": 406
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "CRButton/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3BA6D3A0-FA1D-47C1-9B0B-BB165E4D25BD",
+      "overrideName": "C2B29AF9-0590-4FEC-84F3-A8341D1C1CC9_stringValue",
+      "value": "Enviar"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "653DBAB3-AB02-40BE-9971-E157A748BDF0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "616FA283-5C5F-4ECE-9E88-E74B5A6070F9",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F2604394-7727-4508-9FE0-AC3FFBF9EC75",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9118D477-0D2F-4F24-B735-F4C896B3F35F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8503EBF5-9A6E-4F99-93DA-18A764A3DB9A",
+    "height": 21,
+    "width": 113,
+    "x": 22,
+    "y": 481
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "098EDCAF-CE1E-4E70-9767-5D28618D5E20"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B6573EEF-67AD-43A1-8DEC-F9017B6B9464"
+    },
+    {
+      "class": "oval",
+      "id": "17578B42-CE2E-418E-9E78-9FFB2FF303D6"
+    }
+  ],
+  "name": "Radio Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "F8BF4B32-6C30-4401-B596-98755B93155F",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "do_objectID": "AA5D8182-0DA5-41C9-BE9E-3862EFD6544E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

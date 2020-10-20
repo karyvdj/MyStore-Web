@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4F6869D0-8C22-4D5C-9A60-5DD5A4A79466",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 548,
+    "width": 220,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B83B6546-E1EA-4BB3-B988-B50BE16A6B23"
+    },
+    {
+      "class": "rectangle",
+      "id": "18496C3A-A65F-42A3-ABA4-ADD72FF0E4E9"
+    },
+    {
+      "class": "rectangle",
+      "id": "AC552442-3FE9-4959-9A4C-CD8B4CDDCB51"
+    },
+    {
+      "class": "rectangle",
+      "id": "C2694F73-A137-4EFD-944C-CA55235F1EF5"
+    },
+    {
+      "class": "rectangle",
+      "id": "1CF8B38D-5B12-4325-8A8F-95DD901A22B5"
+    },
+    {
+      "class": "rectangle",
+      "id": "9451D886-038D-4395-8712-596DE6C0293E"
+    },
+    {
+      "class": "rectangle",
+      "id": "A2B13F61-DF30-4245-B81B-D853F76045E8"
+    },
+    {
+      "class": "rectangle",
+      "id": "5610235A-3504-424E-A105-59FD0CD1650A"
+    },
+    {
+      "class": "rectangle",
+      "id": "2D5C804F-02E0-44BE-83DF-51558C3A5FE1"
+    }
+  ],
+  "name": "Container",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "do_objectID": "EDA83CF8-6353-4858-82AD-C7629A29D20B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
