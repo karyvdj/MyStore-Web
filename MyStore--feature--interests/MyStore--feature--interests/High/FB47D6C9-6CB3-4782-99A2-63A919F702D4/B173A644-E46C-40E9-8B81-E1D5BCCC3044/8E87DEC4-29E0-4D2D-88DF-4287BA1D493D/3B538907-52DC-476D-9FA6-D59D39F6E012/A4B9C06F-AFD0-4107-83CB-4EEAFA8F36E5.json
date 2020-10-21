@@ -24,11 +24,11 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 92,
+        "length": 216,
         "location": 0
       }
     ],
-    "string": "Ayuda a tus compradores a encontrar más rápido tus productos agrupandolos y clasificandolos."
+    "string": "Ayuda a tus compradores a encontrar más rápido tus productos asignándoles una categoría. Al categorizar adecuadamente tus productos, obtienen mayor relevancia y tus clientes descubrirán tu tienda con mayor facilidad."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -47,12 +47,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 51,
+    "height": 102,
     "width": 252,
     "x": 0,
     "y": 29
   },
-  "glyphBounds": "{{0, 4}, {236, 45}}",
+  "glyphBounds": "{{0, 4}, {251, 96}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

@@ -24,11 +24,11 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 138,
+        "length": 216,
         "location": 0
       }
     ],
-    "string": "Para ayudar a tus clientes a que encuentren fácilmente tus productos. Asigna tu producto a una de las categorías oficiales de Cansta Rosa."
+    "string": "Ayuda a tus compradores a encontrar más rápido tus productos asignándoles una categoría. Al categorizar adecuadamente tus productos, obtienen mayor relevancia y tus clientes descubrirán tu tienda con mayor facilidad."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -47,12 +47,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
+    "height": 91,
     "width": 290,
     "x": 0,
     "y": 26
   },
-  "glyphBounds": "{{0, 4}, {286, 47}}",
+  "glyphBounds": "{{0, 4}, {275, 81}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Para ayudar a tus cl",
+  "name": "Ayuda a tus comprado",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

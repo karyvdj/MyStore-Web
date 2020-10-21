@@ -24,11 +24,11 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 109,
+        "length": 202,
         "location": 0
       }
     ],
-    "string": " Asígna hasta 3 intereses a tu porducto, para que tu clientes puedan encontrarlo por la necesidad que tengan."
+    "string": "Los intereses son una manera menos estricta de clasificar tus productos. Categorizando por interés ayudas a tus clientes a encontrar tus productos de una manera más natural conforme a su estilo de vida."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -47,12 +47,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 34,
+    "height": 51,
     "width": 443,
     "x": 0,
     "y": 27
   },
-  "glyphBounds": "{{0, 4}, {381, 31}}",
+  "glyphBounds": "{{0, 4}, {431, 45}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Asígna hasta 3 inter",
+  "name": "Los intereses son un",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

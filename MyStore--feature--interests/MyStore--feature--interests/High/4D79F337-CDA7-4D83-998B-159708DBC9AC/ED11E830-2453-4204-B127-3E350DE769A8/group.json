@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 606,
+    "height": 628,
     "width": 444,
     "x": 270,
     "y": 237
@@ -45,20 +45,8 @@
       "id": "0258734B-3E25-4DDE-B713-65D166B3E327"
     },
     {
-      "class": "rectangle",
-      "id": "2482ACB3-9B00-49CD-88F5-5BD0BC95D1DC"
-    },
-    {
       "class": "group",
-      "id": "F37D5056-A401-4455-8D06-5653BA023915"
-    },
-    {
-      "class": "group",
-      "id": "65EBCCBA-06AC-49DD-B0C3-D74E626CB207"
-    },
-    {
-      "class": "group",
-      "id": "EFF87562-D66C-4F2C-86FF-2748FB1E1191"
+      "id": "5FE9A61B-2AAD-4C6F-B0ED-B6186E39EC18"
     }
   ],
   "name": "Gallery-section",

@@ -24,11 +24,11 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 92,
+        "length": 51,
         "location": 0
       }
     ],
-    "string": "Ayuda a tus compradores a encontrar más rápido tus productos agrupandolos y clasificandolos."
+    "string": "Asigna la categoría que mejor describa tu producto."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -47,12 +47,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 34,
+    "height": 17,
     "width": 443,
     "x": 0,
     "y": 27
   },
-  "glyphBounds": "{{0, 4}, {435, 30}}",
+  "glyphBounds": "{{0, 4}, {289, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Ayuda a tus comprado",
+  "name": "Asigna la categoría",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
